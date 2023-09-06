@@ -24,7 +24,7 @@
     "@electron/remote": "^2.0.0"
   },
   "devDependencies": {
-    "electron": "^18.0.0",
+    "electron": "^22.3.21",
     "electron-installer-dmg": "^3.0.0",
     "electron-packager": "^15.5.1",
     "electron-wix-msi": "^4.0.0"
